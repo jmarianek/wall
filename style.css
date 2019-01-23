@@ -24,6 +24,10 @@ h1 {
   text-shadow: 0 0 4px white;
 }
 
+canvas {
+  cursor: none;
+}
+
 .score {
   position: absolute;
   margin: 0;
